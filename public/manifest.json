@@ -1,0 +1,11 @@
+{
+  "name": "Guardians vs Troops",
+  "short_name": "Guardians",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#1f2937",
+  "theme_color": "#1f2937"
+}
